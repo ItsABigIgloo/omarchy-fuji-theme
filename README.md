@@ -1,0 +1,2 @@
+# omarchy-fuji-theme
+null
